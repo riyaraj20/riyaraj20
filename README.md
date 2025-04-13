@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a second year college student currently perusing BCA
+I am a second year college student currently purusing BCA
 
 
 ## 🌐 Socials:
